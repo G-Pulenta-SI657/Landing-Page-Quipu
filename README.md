@@ -1,3 +1,3 @@
 # Landing Page
-## V1
+## V.1.0
 ## Quipu
